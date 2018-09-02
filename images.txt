@@ -1,0 +1,16 @@
+dog1.txt
+dog2.txt
+dog3.txt
+dog4.txt
+car1.txt
+car2.txt
+car3.txt
+car4.txt
+cat1.txt
+cat2.txt
+cat3.txt
+cat4.txt
+truck1.txt
+truck2.txt
+truck3.txt
+truck4.txt
