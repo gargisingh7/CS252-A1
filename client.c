@@ -53,7 +53,7 @@ int main(int argc, char *argv[]){
 //	printf("gargi\n");
         if(fpi != NULL){
             while( (bi = recv(clientSocket, buffer, 1024,0))> 0 ) 		{       
-		    tot+=b;
+		    tot+=bi;
                     fwrite(buffer, 1, bi, fpi);
 	//	    printf("gargi %d\n",u++);
             }
